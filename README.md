@@ -1,2 +1,2 @@
-# Gonk-Archive
-A Collection of some of my Minecraft modpacks
+# Gonk Series
+A Collection of my Mincecraft modpacks
