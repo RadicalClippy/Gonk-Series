@@ -5,7 +5,7 @@ A Collection of my Mincecraft modpacks
 
 [Curesforge](https://www.curseforge.com/minecraft/modpacks/prehistoric-gonkz)
 
-**Pixel Gonk**
+**Poke Gonk**
 
 [Curseforge](https://www.curseforge.com/minecraft/modpacks/pixelgonk)
 
