@@ -10,3 +10,5 @@ A Collection of my Mincecraft modpacks
 [Curseforge](https://www.curseforge.com/minecraft/modpacks/pixelgonk)
 
 [Technic](https://www.technicpack.net/modpack/pixelgonk.1950387)
+
+[File](https://github.com/RadicalNugz/Gonk-Series/releases/tag/PixelGonk)
