@@ -13,6 +13,10 @@ A Collection of my Mincecraft modpacks
 
 [File](https://github.com/RadicalNugz/Gonk-Series/releases/tag/PixelGonk)
 
+**Doctor Gonkers**
+
+> Soon..
+
 **Gonking Around**
 
 > Soon..
