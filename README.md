@@ -1,10 +1,6 @@
 # Gonk Series
 A Collection of my Mincecraft modpacks
 ## Modpacks
-**Prehistoric Gonkz**
-
-[Curesforge](https://www.curseforge.com/minecraft/modpacks/prehistoric-gonkz)
-
 **Poke Gonk**
 
 [Curseforge](https://www.curseforge.com/minecraft/modpacks/pixelgonk)
@@ -12,6 +8,10 @@ A Collection of my Mincecraft modpacks
 [Technic](https://www.technicpack.net/modpack/pixelgonk.1950387)
 
 [File](https://github.com/RadicalNugz/Gonk-Series/releases/tag/PixelGonk)
+
+**Prehistoric Gonkz**
+
+[Curesforge](https://www.curseforge.com/minecraft/modpacks/prehistoric-gonkz)
 
 **Doctor Gonkers**
 
@@ -25,18 +25,6 @@ A Collection of my Mincecraft modpacks
 
 > Soon..
 
-**Gonk Pandemic**
-
-> Soon..
-
-**Gonk Space Adventures**
-
-> Soon..
-
-**Gonk Space**
-
-> Soon..
-
 **Gonking Through Time 'N Space**
 
 > Soon..
@@ -45,8 +33,13 @@ A Collection of my Mincecraft modpacks
 
 > Soon..
 
-**The New Journey Of Gonk**
-
-> Soon.. Maybe..
-
 ## Legacy Modpacks
+
+**Gonk Space Adventures**
+
+> Soon..
+
+**Gonk Pandemic**
+
+> Soon..
+
