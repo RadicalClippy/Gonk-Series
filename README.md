@@ -1,6 +1,10 @@
 # Gonk Series
 A Collection of my Mincecraft modpacks
 ## Modpacks
+**Gonk-Fi 2: Electric Boogaloo**
+
+[Curseforge](https://www.curseforge.com/minecraft/modpacks/gonk-fi-2-electric-boogaloo)
+
 **Poke Gonk**
 
 [Curseforge](https://www.curseforge.com/minecraft/modpacks/pixelgonk)
