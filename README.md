@@ -7,6 +7,8 @@ A Collection of my Mincecraft modpacks
 
 [Technic](https://www.technicpack.net/modpack/gonk-fi-2-electric-boogaloo.1953257)
 
+[File](https://github.com/RadicalNugz/Gonk-Series/releases/tag/GonkFi)
+
 **Poke Gonk**
 
 [Curseforge](https://www.curseforge.com/minecraft/modpacks/pixelgonk)
