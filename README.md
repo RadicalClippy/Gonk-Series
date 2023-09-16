@@ -1,4 +1,4 @@
-# Gonk-fi
+# Gonk-Fi
 A Cool Sci-Fi Modpack. 
 > Warning: This Modpack Is Very Unstable And Not Optimized
 ## Mod List
