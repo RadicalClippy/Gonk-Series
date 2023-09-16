@@ -1,6 +1,6 @@
 # Gonk-fi
 A Cool Sci-Fi Modpack. 
-**warning: This modpack is very unstable and not optimized**
+> Warning: This modpack is very unstable and not optimized
 ## Mod List
 
 - Aliens Vs Predator
