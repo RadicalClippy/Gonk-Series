@@ -44,6 +44,7 @@ A Collection of my Mincecraft modpacks
 ## Legacy Modpacks
 
 **Gonk Space Adventures**
+> Warning: This modpack is very unstable and not optimized
 
 [File](https://github.com/RadicalNugz/Gonk-Series/tree/Gonk-Fi)
 
