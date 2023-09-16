@@ -1,1 +1,71 @@
+# Gonk-fi
+A Cool Sci-Fi Modpack. 
+**warning: This modpack is very unstable and not optimized**
+## Mod List
 
+- Aliens Vs Predator
+- AsmodeusCore ```Library```
+- Dalek Mod
+- Electroblob's Wizardry
+- Emojicord
+- Fossils and Archeology:Revival
+- GalacticTweaks
+- Galaxy Space
+- Interstellar:Exoplanets
+- Just Enough Items (JEI)
+- LibraryEx ```Library```
+- MDXLib ```Library```
+- MJRLegends Lib ```Library```
+- More Planets
+- MrCrayfish's Furniture Mod
+- NetherEx
+- Orva Alarms and Sirens
+- Scape and Run:Parasites
+- SCP:Lockdown
+- Simple Storage Network
+- SteveKunG's Lib ```Library```
+- Storage Drawers
+- Xaero's Minimap
+- Xaero's World Map
+- AnimalNet
+- Better Diving
+- Bonsai Trees 3
+- Bountiful
+- BuildCraft
+- Chameleon ```Library```
+- Chest Transporter
+- Cosmetic Armor Reworked
+- Craft Gunpowder
+- Cucumber Libary ```Library```
+- Custom Main Menu
+- FTB Backups
+- FTB Libary ```Library```
+- FTB Utilities
+- Galacticraft
+- Gravestones
+- Hex Lands
+- Inventory Tweaks
+- Iron Backpacks
+- Iron Chests
+- Iron Jetpacks
+- Just a Few Fish
+- LLibrary ```Library```
+- LootBags
+- Mantle ```Library```
+- MrCrayfish's Gun Mod
+- MrCrayfish's Vehicle Mod
+- NetherPortalFix
+- Obfuscate ```Library```
+- Galacticraft Core ```Library```
+- MicdoodleCore ```Library```
+- Rats
+- Resource Loader
+- SCP: Lockdown Heavy Containment Zone Expansion
+- Shadowfacts'Forgelin ```Library```
+- Space Ambient
+- Stargate Network
+- Stimmedcow : NoMoreRecipeConflict
+- Tinkers Construct
+- Tinkers' Complement
+- Water Strainer
+- Worley's Caves
