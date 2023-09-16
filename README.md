@@ -43,7 +43,7 @@ A Collection of my Mincecraft modpacks
 
 ## Legacy Modpacks
 
-**Gonk Space Adventures**
+**Gonk Space Adventures (Gonk-Fi)**
 
 [File](https://github.com/RadicalNugz/Gonk-Series/tree/Gonk-Fi)
 
