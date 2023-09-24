@@ -1,5 +1,5 @@
 # Gonk Series
-A Collection of my Mincecraft modpacks
+A Collection of my Minecraft modpacks
 ## Modpacks
 **Gonk-Fi 2: Electric Boogaloo**
 
